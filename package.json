@@ -1,0 +1,19 @@
+{
+  "name": "uikit-project-01",
+  "version": "1.0.0",
+  "description": "UIkit Project 01",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehdichitforoosh/01-uikit-project.git"
+  },
+  "author": "Mehdi Chitforoosh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mehdichitforoosh/01-uikit-project/issues"
+  },
+  "homepage": "https://github.com/mehdichitforoosh/01-uikit-project#readme"
+}
